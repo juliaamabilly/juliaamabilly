@@ -2,7 +2,7 @@
 
 meu nome é julia amabilly
 
-- estou estudando no alura
+- estou estudando no [alura]. (https://www.alura.com.br)
 - estou desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organizaçâo e compartilhamento dos meu projetos desenvolvidos
 
@@ -11,3 +11,5 @@ meu nome é julia amabilly
 amabilly.mello.julia@escola.pr.gov.br
 
 @juliaa_amabilly
+
+ ![](https://media1.tenor.com/m/lpb4bYfU-HgAAAAd/shake-cat.gif)
